@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "97015907074",
+    "project_id": "sprocket-news"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97015907074:android:10aafa61a3611e23",
+        "android_client_info": {
+          "package_name": "com.example.nick.sprocketnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97015907074-qho4bjtrp8sqv7uh50mqo8c6rauja2as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nick.sprocketnews",
+            "certificate_hash": "01E86DBEFA701068E8BE85AB594888BC79B57163"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPLpWofZdRbfiAB9uMzuGm_esxjPlH6l8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
